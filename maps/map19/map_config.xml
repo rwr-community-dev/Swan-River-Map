@@ -15,7 +15,7 @@
 	<include_layer name="layer1.default" />
 	
   <scene>
-    <fog offset="30.0" range="70.0" />
+    <fog offset="24.0" range="60.0" />
   </scene>	
 	
 </map_config>
